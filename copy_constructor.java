@@ -6,13 +6,13 @@ class mca{
     public mca(){
         number=10;
         name="HELLO EVERYONE";
-      //  System.out.println(a);
-        // System.out.println(b);
+
     }
     public mca(mca ref){
         number= ref.number;
         name=ref.name;
     }
+
     public void setNumber(int n){
         number = n;
     }
