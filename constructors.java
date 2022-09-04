@@ -7,6 +7,7 @@ class mymainemployee{
     id =545;
     name = "HELLO EVERYONE";
     }
+
     public mymainemployee(String myname,int myid){
         id = myid;
         name = myname;

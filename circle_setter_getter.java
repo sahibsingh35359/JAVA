@@ -15,7 +15,8 @@ class circle1{
         public void setPerimeter(float p) {
             if (p == 2 * 22 * radius / 7) {
                 perimeter = p;
-            } else {
+            }
+            else {
                 System.out.println("WARNING!!! wrong perimeter as per the radius");
             }
         }
